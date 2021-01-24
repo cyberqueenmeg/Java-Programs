@@ -55,7 +55,7 @@ class week2Practice {
         ch = (char)num;
         System.out.println(ch);
 
-        int xxxx = 3.5;
+        int xxxx = (int)3.5;
         int yyy = (int)3.5;
         int z = (int)3.99;
     }
