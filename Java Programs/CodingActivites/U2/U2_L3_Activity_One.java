@@ -1,4 +1,4 @@
-//U2 L3 Activity 1
+//U2 L3 Activity 1 :)
 import java.util.Scanner;
 
 public class U2_L3_Activity_One{
